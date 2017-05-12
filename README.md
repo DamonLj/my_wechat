@@ -1,5 +1,6 @@
 # my_wechat
 analysis of personal wechat
+
 学习知乎用户@yonggege的教程
 
 itchat库简单调用
